@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/Leo4815162342/football-logos">
+<a href="https://football-logos.cc">
 <img src="screenshot.png">
 </a>
 <p></p>
