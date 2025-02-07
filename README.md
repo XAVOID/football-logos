@@ -392,7 +392,7 @@
 |<img src="/logos/england/64x64/northampton.png" width="32" height="32" />|[Northampton](https://football-logos.cc/england/northampton)|
 |<img src="/logos/england/64x64/northwich-victoria.png" width="32" height="32" />|[Northwich Victoria](https://football-logos.cc/england/northwich-victoria)|
 |<img src="/logos/england/64x64/norwich.png" width="32" height="32" />|[Norwich](https://football-logos.cc/england/norwich)|
-|<img src="/logos/england/64x64/nottm-forest.png" width="32" height="32" />|[Nottm Forest](https://football-logos.cc/england/nottm-forest)|
+|<img src="/logos/england/64x64/nottingham-forest.png" width="32" height="32" />|[Nottingham Forest](https://football-logos.cc/england/nottingham-forest)|
 |<img src="/logos/england/64x64/notts-county.png" width="32" height="32" />|[Notts County](https://football-logos.cc/england/notts-county)|
 |<img src="/logos/england/64x64/oldham.png" width="32" height="32" />|[Oldham](https://football-logos.cc/england/oldham)|
 |<img src="/logos/england/64x64/oxford.png" width="32" height="32" />|[Oxford](https://football-logos.cc/england/oxford)|
