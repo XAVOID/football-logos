@@ -368,7 +368,6 @@
 |<img src="/logos/england/64x64/gainsborough-trinity.png" width="32" height="32" />|[Gainsborough Trinity](https://football-logos.cc/england/gainsborough-trinity)|
 |<img src="/logos/england/64x64/gillingham.png" width="32" height="32" />|[Gillingham](https://football-logos.cc/england/gillingham)|
 |<img src="/logos/england/64x64/grimsby.png" width="32" height="32" />|[Grimsby](https://football-logos.cc/england/grimsby)|
-|<img src="/logos/england/64x64/gyor.png" width="32" height="32" />|[Győr](https://football-logos.cc/england/gyor)|
 |<img src="/logos/england/64x64/hartlepool.png" width="32" height="32" />|[Hartlepool](https://football-logos.cc/england/hartlepool)|
 |<img src="/logos/england/64x64/huddersfield.png" width="32" height="32" />|[Huddersfield](https://football-logos.cc/england/huddersfield)|
 |<img src="/logos/england/64x64/hull.png" width="32" height="32" />|[Hull](https://football-logos.cc/england/hull)|
