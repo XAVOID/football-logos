@@ -187,6 +187,31 @@
 |<img src="/logos/bosnia-and-herzegovina/64x64/zvijezda-09.png" width="32" height="32" />|[Zvijezda 09](https://football-logos.cc/bosnia-and-herzegovina/zvijezda-09)|
 |<img src="/logos/bosnia-and-herzegovina/64x64/zvijezda.png" width="32" height="32" />|[Zvijezda](https://football-logos.cc/bosnia-and-herzegovina/zvijezda)|
 
+## 🇧🇷 Brazil
+
+|Logo|Team|
+|---|---|
+|<img src="/logos/brazil/64x64/athletico-paranaense.png" width="32" height="32" />|[Athletico Paranaense](https://football-logos.cc/brazil/athletico-paranaense)|
+|<img src="/logos/brazil/64x64/atletico-goianiense.png" width="32" height="32" />|[Atlético Goianiense](https://football-logos.cc/brazil/atletico-goianiense)|
+|<img src="/logos/brazil/64x64/atletico-mineiro.png" width="32" height="32" />|[Atlético Mineiro](https://football-logos.cc/brazil/atletico-mineiro)|
+|<img src="/logos/brazil/64x64/bahia.png" width="32" height="32" />|[Bahia](https://football-logos.cc/brazil/bahia)|
+|<img src="/logos/brazil/64x64/botafogo.png" width="32" height="32" />|[Botafogo FR](https://football-logos.cc/brazil/botafogo)|
+|<img src="/logos/brazil/64x64/corinthians.png" width="32" height="32" />|[Corinthians](https://football-logos.cc/brazil/corinthians)|
+|<img src="/logos/brazil/64x64/criciuma.png" width="32" height="32" />|[Criciúma](https://football-logos.cc/brazil/criciuma)|
+|<img src="/logos/brazil/64x64/cruzeiro.png" width="32" height="32" />|[Cruzeiro](https://football-logos.cc/brazil/cruzeiro)|
+|<img src="/logos/brazil/64x64/cuiaba.png" width="32" height="32" />|[Cuiabá](https://football-logos.cc/brazil/cuiaba)|
+|<img src="/logos/brazil/64x64/flamengo.png" width="32" height="32" />|[Flamengo](https://football-logos.cc/brazil/flamengo)|
+|<img src="/logos/brazil/64x64/fluminense.png" width="32" height="32" />|[Fluminense](https://football-logos.cc/brazil/fluminense)|
+|<img src="/logos/brazil/64x64/fortaleza.png" width="32" height="32" />|[Fortaleza](https://football-logos.cc/brazil/fortaleza)|
+|<img src="/logos/brazil/64x64/gremio.png" width="32" height="32" />|[Grêmio](https://football-logos.cc/brazil/gremio)|
+|<img src="/logos/brazil/64x64/internacional.png" width="32" height="32" />|[Internacional](https://football-logos.cc/brazil/internacional)|
+|<img src="/logos/brazil/64x64/juventude.png" width="32" height="32" />|[Juventude](https://football-logos.cc/brazil/juventude)|
+|<img src="/logos/brazil/64x64/palmeiras.png" width="32" height="32" />|[Palmeiras](https://football-logos.cc/brazil/palmeiras)|
+|<img src="/logos/brazil/64x64/rb-bragantino.png" width="32" height="32" />|[RB Bragantino](https://football-logos.cc/brazil/rb-bragantino)|
+|<img src="/logos/brazil/64x64/sao-paulo.png" width="32" height="32" />|[São Paulo](https://football-logos.cc/brazil/sao-paulo)|
+|<img src="/logos/brazil/64x64/vasco-da-gama.png" width="32" height="32" />|[Vasco da Gama](https://football-logos.cc/brazil/vasco-da-gama)|
+|<img src="/logos/brazil/64x64/vitoria.png" width="32" height="32" />|[Vitória](https://football-logos.cc/brazil/vitoria)|
+
 ## 🇧🇬 Bulgaria
 
 |Logo|Team|
