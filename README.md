@@ -51,6 +51,41 @@
 |<img src="/logos/andorra/64x64/ranger-s.png" width="32" height="32" />|[Rànger's](https://football-logos.cc/andorra/ranger-s)|
 |<img src="/logos/andorra/64x64/ue-santa-coloma.png" width="32" height="32" />|[UE Santa Coloma](https://football-logos.cc/andorra/ue-santa-coloma)|
 
+## 🇦🇷 Argentina
+
+|Logo|Team|
+|---|---|
+|<img src="/logos/argentina/64x64/aldosivi.png" width="32" height="32" />|[Aldosivi](https://football-logos.cc/argentina/aldosivi)|
+|<img src="/logos/argentina/64x64/argeninos-juniors.png" width="32" height="32" />|[Argeninos Juniors](https://football-logos.cc/argentina/argeninos-juniors)|
+|<img src="/logos/argentina/64x64/atletico-tucuman.png" width="32" height="32" />|[Atlético Tucumán](https://football-logos.cc/argentina/atletico-tucuman)|
+|<img src="/logos/argentina/64x64/banfield.png" width="32" height="32" />|[Banfield](https://football-logos.cc/argentina/banfield)|
+|<img src="/logos/argentina/64x64/barracas-central.png" width="32" height="32" />|[Barracas Central](https://football-logos.cc/argentina/barracas-central)|
+|<img src="/logos/argentina/64x64/belgrano.png" width="32" height="32" />|[Belgrano](https://football-logos.cc/argentina/belgrano)|
+|<img src="/logos/argentina/64x64/boca-juniors.png" width="32" height="32" />|[Boca Juniors](https://football-logos.cc/argentina/boca-juniors)|
+|<img src="/logos/argentina/64x64/ca-huracan.png" width="32" height="32" />|[CA Huracán](https://football-logos.cc/argentina/ca-huracan)|
+|<img src="/logos/argentina/64x64/central-cordoba.png" width="32" height="32" />|[Central Córdoba](https://football-logos.cc/argentina/central-cordoba)|
+|<img src="/logos/argentina/64x64/club-atletico-platanense.png" width="32" height="32" />|[Club Atlético Platanense](https://football-logos.cc/argentina/club-atletico-platanense)|
+|<img src="/logos/argentina/64x64/defensa-y-justicia.png" width="32" height="32" />|[Defensa y Justicia](https://football-logos.cc/argentina/defensa-y-justicia)|
+|<img src="/logos/argentina/64x64/deportivo-riestra.png" width="32" height="32" />|[Deportivo Riestra](https://football-logos.cc/argentina/deportivo-riestra)|
+|<img src="/logos/argentina/64x64/estudiantes-de-la-plata.png" width="32" height="32" />|[Estudiantes de La Plata](https://football-logos.cc/argentina/estudiantes-de-la-plata)|
+|<img src="/logos/argentina/64x64/gimnasia-lp.png" width="32" height="32" />|[Gimnasia LP](https://football-logos.cc/argentina/gimnasia-lp)|
+|<img src="/logos/argentina/64x64/godoy-cruz.png" width="32" height="32" />|[Godoy Cruz](https://football-logos.cc/argentina/godoy-cruz)|
+|<img src="/logos/argentina/64x64/independiente-rivadavia.png" width="32" height="32" />|[Independiente Rivadavia](https://football-logos.cc/argentina/independiente-rivadavia)|
+|<img src="/logos/argentina/64x64/independiente.png" width="32" height="32" />|[Independiente](https://football-logos.cc/argentina/independiente)|
+|<img src="/logos/argentina/64x64/instituto-cordoba.png" width="32" height="32" />|[Instituto Córdoba](https://football-logos.cc/argentina/instituto-cordoba)|
+|<img src="/logos/argentina/64x64/lanus.png" width="32" height="32" />|[Lanús](https://football-logos.cc/argentina/lanus)|
+|<img src="/logos/argentina/64x64/newells-old-boys.png" width="32" height="32" />|[Newell's Old Boys](https://football-logos.cc/argentina/newells-old-boys)|
+|<img src="/logos/argentina/64x64/racing-club.png" width="32" height="32" />|[Racing Club](https://football-logos.cc/argentina/racing-club)|
+|<img src="/logos/argentina/64x64/river-plate.png" width="32" height="32" />|[River Plate](https://football-logos.cc/argentina/river-plate)|
+|<img src="/logos/argentina/64x64/rosario-central.png" width="32" height="32" />|[Rosario Central](https://football-logos.cc/argentina/rosario-central)|
+|<img src="/logos/argentina/64x64/san-lorenzo-de-almagro.png" width="32" height="32" />|[San Lorenzo de Almagro](https://football-logos.cc/argentina/san-lorenzo-de-almagro)|
+|<img src="/logos/argentina/64x64/san-martin-san-juan.png" width="32" height="32" />|[San Martín San Juan](https://football-logos.cc/argentina/san-martin-san-juan)|
+|<img src="/logos/argentina/64x64/sarmiento.png" width="32" height="32" />|[Sarmiento](https://football-logos.cc/argentina/sarmiento)|
+|<img src="/logos/argentina/64x64/talleres.png" width="32" height="32" />|[Talleres](https://football-logos.cc/argentina/talleres)|
+|<img src="/logos/argentina/64x64/tigre.png" width="32" height="32" />|[Tigre](https://football-logos.cc/argentina/tigre)|
+|<img src="/logos/argentina/64x64/union.png" width="32" height="32" />|[Union](https://football-logos.cc/argentina/union)|
+|<img src="/logos/argentina/64x64/velez-sarsfield.png" width="32" height="32" />|[Vélez Sarsfield](https://football-logos.cc/argentina/velez-sarsfield)|
+
 ## 🇦🇲 Armenia
 
 |Logo|Team|
