@@ -780,7 +780,9 @@
 |<img src="/logos/italy/64x64/atalanta.png" width="32" height="32" />|[Atalanta](https://football-logos.cc/italy/atalanta)|
 |<img src="/logos/italy/64x64/bologna.png" width="32" height="32" />|[Bologna](https://football-logos.cc/italy/bologna)|
 |<img src="/logos/italy/64x64/brescia.png" width="32" height="32" />|[Brescia](https://football-logos.cc/italy/brescia)|
+|<img src="/logos/italy/64x64/cagliari.png" width="32" height="32" />|[Cagliari](https://football-logos.cc/italy/cagliari)|
 |<img src="/logos/italy/64x64/cesena.png" width="32" height="32" />|[Cesena](https://football-logos.cc/italy/cesena)|
+|<img src="/logos/italy/64x64/como-1907.png" width="32" height="32" />|[Como 1907](https://football-logos.cc/italy/como-1907)|
 |<img src="/logos/italy/64x64/empoli.png" width="32" height="32" />|[Empoli](https://football-logos.cc/italy/empoli)|
 |<img src="/logos/italy/64x64/fiorentina.png" width="32" height="32" />|[Fiorentina](https://football-logos.cc/italy/fiorentina)|
 |<img src="/logos/italy/64x64/genoa.png" width="32" height="32" />|[Genoa](https://football-logos.cc/italy/genoa)|
@@ -789,6 +791,7 @@
 |<img src="/logos/italy/64x64/lazio.png" width="32" height="32" />|[Lazio](https://football-logos.cc/italy/lazio)|
 |<img src="/logos/italy/64x64/lecce.png" width="32" height="32" />|[Lecce](https://football-logos.cc/italy/lecce)|
 |<img src="/logos/italy/64x64/milan.png" width="32" height="32" />|[Milan](https://football-logos.cc/italy/milan)|
+|<img src="/logos/italy/64x64/monza.png" width="32" height="32" />|[Monza](https://football-logos.cc/italy/monza)|
 |<img src="/logos/italy/64x64/napoli.png" width="32" height="32" />|[Napoli](https://football-logos.cc/italy/napoli)|
 |<img src="/logos/italy/64x64/palermo.png" width="32" height="32" />|[Palermo](https://football-logos.cc/italy/palermo)|
 |<img src="/logos/italy/64x64/parma.png" width="32" height="32" />|[Parma](https://football-logos.cc/italy/parma)|
@@ -797,7 +800,8 @@
 |<img src="/logos/italy/64x64/sassuolo.png" width="32" height="32" />|[Sassuolo](https://football-logos.cc/italy/sassuolo)|
 |<img src="/logos/italy/64x64/torino.png" width="32" height="32" />|[Torino](https://football-logos.cc/italy/torino)|
 |<img src="/logos/italy/64x64/udinese.png" width="32" height="32" />|[Udinese](https://football-logos.cc/italy/udinese)|
-|<img src="/logos/italy/64x64/verona.png" width="32" height="32" />|[Verona](https://football-logos.cc/italy/verona)|
+|<img src="/logos/italy/64x64/venezia.png" width="32" height="32" />|[Venezia](https://football-logos.cc/italy/venezia)|
+|<img src="/logos/italy/64x64/verona.png" width="32" height="32" />|[Hellas Verona](https://football-logos.cc/italy/verona)|
 
 ## 🇰🇿 Kazakhstan
 
